@@ -25,7 +25,7 @@ global.link = 'https://chat.whatsapp.com/J8rJ6JucgOV1qIOOohSXg1'
 global.prefa = ['.']
 
 //false=disable and true=enable
-global.welcome = false //auto welcome
+global.welcome = true //auto welcome
 global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
